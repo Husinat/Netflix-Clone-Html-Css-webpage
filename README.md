@@ -52,4 +52,4 @@ No installation or build step is required because this is a static HTML/CSS proj
 
 ## Author
 
-Created as an HTML and CSS practice project practice.
+Created as an HTML and CSS practice project.
