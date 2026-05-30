@@ -53,3 +53,5 @@ No installation or build step is required because this is a static HTML/CSS proj
 ## Author
 
 Created as an HTML and CSS practice project.
+
+## NoteThis project is for learning and portfolio purposes only. It is not affiliated with Netflix.
